@@ -3,7 +3,7 @@
  * orderItem.java
  * represents a order item in a restaurant reservation and preorder app
  * @author Chris Carmine
- * @version 1.0k
+ * @version 1.0
  ***********************/
 
 public class orderItem{
