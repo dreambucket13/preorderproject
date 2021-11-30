@@ -3,13 +3,13 @@
  * orderItem.java
  * represents a order item in a restaurant reservation and preorder app
  * @author Chris Carmine
- * @version 1.0
+ * @version 1.0k
  ***********************/
 
 public class orderItem{
 
 
-//testing git
+//testing git again
 private int qty;
 private double extPrice;
 private menuItem selectedItem;
